@@ -14,4 +14,4 @@ journeys.js 하나만 고치면 됩니다. 장소마다 name(개역개정 지명
 - 위성사진: Esri World Imagery (인터넷 연결 시)
 - 지도 엔진: Leaflet (BSD-2 라이선스)
 
-만든 사람 촌놈루니 · 피드백 bear4jesus@gmail.com
+만든 사람 촌놈루니 · 피드백 contact@mokyangdesk.com
